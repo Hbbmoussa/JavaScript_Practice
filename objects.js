@@ -5,3 +5,8 @@ const cat = {
   tails: 1,
   enemies: ["water", "dogs"],
 };
+const annotherObject = {
+  make: "Ford",
+  5: "five",
+  model: "focus",
+};
