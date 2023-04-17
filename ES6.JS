@@ -12,3 +12,4 @@ const myFunc = () => {
 const valueFunc = () => "value";
 
 const double = (item) => item * 2;
+const multiFunction = (item1, item2) => item1 * item2;
