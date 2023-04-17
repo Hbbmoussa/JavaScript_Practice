@@ -10,3 +10,5 @@ const myFunc = () => {
  * as well as the brackets surrounding the code.
  */
 const valueFunc = () => "value";
+
+const double = (item) => item * 2;
